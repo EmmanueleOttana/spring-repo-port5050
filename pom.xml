@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.develhope</groupId>
-    <artifactId>spring-repositories-2</artifactId>
+    <artifactId>spring-repo-port5050</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-repositories-2</name>
     <description>spring-repositories-2</description>
